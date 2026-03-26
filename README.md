@@ -2,6 +2,11 @@
 
 > 记录灵感、规划发展、沉淀思考，将零散的想法转化为系统的学术成果。
 
+## 🌐 语言 / Language
+
+[![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-README-red?style=for-the-badge)](README.md)
+[![English](https://img.shields.io/badge/English-README--EN-blue?style=for-the-badge)](README-EN.md)
+
 ---
 
 ## 📁 目录结构
