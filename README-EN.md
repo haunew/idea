@@ -91,6 +91,14 @@ idea/
 
 ---
 
+### New Research Directions
+
+| Paper | Theme | Description |
+|-------|-------|-------------|
+| [Brainwave AI: From Neural Decoding to Mind Control](future-vision/research/brainwave-ai-mind-control-paper-en.md) 🆕 | BCI + Large Models | Five-stage roadmap from EEG recognition to telekinesis |
+
+---
+
 ## 🔬 Five-Stage Technical Details
 
 ### Stage 1: Room Wireless (2025-2030)
