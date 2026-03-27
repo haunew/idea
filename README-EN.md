@@ -97,6 +97,25 @@ idea/
 |-------|-------|-------------|
 | [Brainwave AI: From Neural Decoding to Mind Control](future-vision/research/brainwave-ai-mind-control-paper-en.md) 🆕 | BCI + Large Models | Five-stage roadmap from EEG recognition to telekinesis |
 | [Neural Visual Interface: Optogenetics & Visual Restoration](future-vision/research/neural-visual-interface-paper-en.md) 🆕 | Optogenetics + Neural Engineering | Complete technical system from gene therapy to hardware circuits |
+| [Optical 3D Clone Projection: Real-time Holographic Human Visualization and Digital Twin Medicine](future-vision/research/medical-3d-hologram-clone-paper-en.md) 🆕 | Medical Imaging + Digital Twin | Academic-format draft covering method framework, evaluation design, ethics/compliance, and deployment pathway |
+| [Optical 3D Clone Projection V2: A Multi-scale Holographic Human from Organs to Cells (Concept Draft)](future-vision/ideas/2026-03-27-medical-3D-hologram-clone-v2-en.md) | Forward-looking concept | Vision notes for organ-to-cell-scale extension scenarios |
+
+### Medical Direction: Business Value and Ultimate Goal
+
+**Current pain points in modern hospital imaging**:
+- Most workflows still rely on 2D slices, with limited real-time 3D interaction
+- Post-scan review is not truly continuous across all angles and fine details
+- Both clinicians and patients face high cognitive load when understanding spatial pathology
+
+**Ultimate implementation goal (Optical 3D Clone Projection)**:
+- Perform real-time full-body scanning and build a projected 3D clone model
+- Enable manual "skin peeling" to inspect organs and heartbeat in motion
+- Support vascular zoom and dynamic arbitrary cross-sectional inspection
+
+**Post-implementation expansion scenarios**:
+1. Everyone has a personal 3D virtual body model, usable as a new form of "3D identity"
+2. Full visualization of the path from eating to excretion, creating transparent digestion/metabolism tracking
+3. Disease investigation via retrospective comparison with historical 3D models to trace evolution and probable causes
 
 ---
 
@@ -328,4 +347,4 @@ Idea → Record in ideas/ → Discuss & refine → Develop in research/ → Pape
 ---
 
 *Created: 2026-03-26*
-*Last updated: 2026-03-26*
+*Last updated: 2026-03-27*
