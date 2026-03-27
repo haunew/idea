@@ -95,10 +95,45 @@ idea/
 
 | Paper | Theme | Description |
 |-------|-------|-------------|
+| [Integrated Neural Visual Interface and Optical 3D Clone Projection: From Optogenetic Vision Reconstruction to Multi-scale Digital Twin Medicine](future-vision/research/neural-visual-hologram-digital-twin-paper-en.md) 🆕 | Unified flagship paper | Integrates neural visual interface, holographic clone projection, and V2 multi-scale expansion into one academic framework |
 | [Brainwave AI: From Neural Decoding to Mind Control](future-vision/research/brainwave-ai-mind-control-paper-en.md) 🆕 | BCI + Large Models | Five-stage roadmap from EEG recognition to telekinesis |
 | [Neural Visual Interface: Optogenetics & Visual Restoration](future-vision/research/neural-visual-interface-paper-en.md) 🆕 | Optogenetics + Neural Engineering | Complete technical system from gene therapy to hardware circuits |
 | [Optical 3D Clone Projection: Real-time Holographic Human Visualization and Digital Twin Medicine](future-vision/research/medical-3d-hologram-clone-paper-en.md) 🆕 | Medical Imaging + Digital Twin | Academic-format draft covering method framework, evaluation design, ethics/compliance, and deployment pathway |
 | [Optical 3D Clone Projection V2: A Multi-scale Holographic Human from Organs to Cells (Concept Draft)](future-vision/ideas/2026-03-27-medical-3D-hologram-clone-v2-en.md) | Forward-looking concept | Vision notes for organ-to-cell-scale extension scenarios |
+
+#### Direction Briefs (Expanded)
+
+**1) Unified flagship paper: NVI + O3CP + V2 multi-scale**
+- **Research question**: How to convert fragmented modules into one closed-loop pipeline from neural input to clinical prediction.
+- **Technical chain**: Optogenetic neural visual interface (perception) -> real-time holographic human clone (interaction) -> multi-scale digital twin (prediction).
+- **Expected output**: A top-level blueprint aligning terminology, KPI, and validation protocol across sub-projects.
+- **Practical value**: Upgrades diagnosis from “seeing lesions” to “understanding mechanisms + forecasting progression.”
+
+**2) Brainwave AI: from neural decoding to mind control**
+- **Research question**: How to map scalp/intracranial electrophysiology to reliable intent with low latency and low false triggers.
+- **Technical chain**: High-quality acquisition and preprocessing -> decoding models (optionally aligned with large models for semantics) -> safety gating and closed-loop feedback.
+- **Staged goals**: Clinical/rehabilitation first (motor imagery, communication aids), productivity second, higher-bandwidth BCI exploration later.
+- **Synergy with hologram/twin**: Decoded intent can drive holographic UI, digital twins, or assistive devices as a complementary “intent layer” to O3CP.
+
+**3) Neural Visual Interface: Optogenetics and visual reconstruction**
+- **Research question**: How to achieve high-resolution vision reconstruction with long-term safety.
+- **Key technologies**: Red-shifted opsins, AAV optimization, 10,000-channel μLED driver ASIC, hierarchical neural codec.
+- **Staged goals**: Therapeutic restoration first, enhancement applications second, broad neural interface later.
+- **Clinical value**: A practical engineering path from visual compensation to neural-level visual restoration.
+
+**4) Optical 3D Clone Projection: real-time holographic human digital twin**
+- **Research question**: How to replace 2D slice-centered workflow with real-time interactive 3D diagnosis.
+- **Method framework**: Five-layer architecture (acquisition-reconstruction-intelligence-interaction-governance).
+- **Evaluation design**: KPI set covering imaging, diagnosis, treatment, operations, and user experience.
+- **Deployment value**: Better pre-op planning, faster MDT collaboration, and clearer physician-patient communication.
+
+**5) Optical 3D Clone Projection V2: multi-scale extension (concept)**
+- **Research question**: How to extend from organ-level visualization to tissue/cellular/mechanistic observation.
+- **New capabilities**: 3D temperature field, microcirculation mapping, bioelectric visualization, cell-division dynamics.
+- **Forward direction**: Joint modeling of structure, function, and mechanism for earlier intervention.
+- **Strategic value**: Shifts medicine from post-symptom treatment toward mechanism-level prevention.
+
+**How the directions fit together**: The unified paper is the umbrella roadmap; O3CP (4) upgrades clinical visualization and workflow; V2 (5) pushes the same twin toward finer scales; NVI (3) addresses perceptual input at the neural layer; Brainwave AI (2) offers a less-invasive intent channel that can pair with holographic UIs. Each line can advance independently or converge into one product family under the umbrella plan.
 
 ### Medical Direction: Business Value and Ultimate Goal
 
