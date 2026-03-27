@@ -100,6 +100,7 @@ idea/
 | 论文 | 主题 | 说明 |
 |------|------|------|
 | [脑波AI大模型：从神经解码到意念控制](future-vision/research/brainwave-ai-mind-control-paper.md) 🆕 | 脑机接口+大模型 | 从EEG识别到念力的五阶段路线图 |
+| [神经视觉接口：光遗传学与视觉重建](future-vision/research/neural-visual-interface-paper.md) 🆕 | 光遗传学+神经工程 | 从基因治疗到硬件电路的完整技术体系 |
 
 ---
 

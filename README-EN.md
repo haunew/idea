@@ -96,6 +96,7 @@ idea/
 | Paper | Theme | Description |
 |-------|-------|-------------|
 | [Brainwave AI: From Neural Decoding to Mind Control](future-vision/research/brainwave-ai-mind-control-paper-en.md) 🆕 | BCI + Large Models | Five-stage roadmap from EEG recognition to telekinesis |
+| [Neural Visual Interface: Optogenetics & Visual Restoration](future-vision/research/neural-visual-interface-paper-en.md) 🆕 | Optogenetics + Neural Engineering | Complete technical system from gene therapy to hardware circuits |
 
 ---
 
