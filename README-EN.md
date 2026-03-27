@@ -63,13 +63,13 @@ idea/
 | Stage | Document | Timeline | Core Technology | Coverage |
 |-------|----------|----------|-----------------|----------|
 | **Stage 0** | Wired Era (Current) | Now | Wire transmission | Near socket |
-| **[Stage 1](future-vision/research/stage1-room-wireless-power.md)** ⭐ | Room Wireless | 2025-2030 | Magnetic resonance | Single room |
-| **[Stage 2](future-vision/research/stage2-building-wireless-power.md)** ⭐ | Building Wireless | 2030-2035 | RF + Infrared | Whole building |
-| **[Stage 3](future-vision/research/stage3-region-wireless-power.md)** ⭐ | Region Wireless | 2035-2045 | Microwave + mmWave | City/Region |
-| **[Stage 4](future-vision/research/stage4-global-wireless-power.md)** ⭐ | Global Wireless | 2045-2060 | Space solar power | Global |
-| **[Stage 5](future-vision/research/stage5-new-energy-era.md)** ⭐ | New Energy Era | 2060+ | Zero-point/Dark energy | Universe |
+| **[Stage 1](future-vision/research/stage1-room-wireless-power-en.md)** ⭐ | Room Wireless | 2025-2030 | Magnetic resonance | Single room |
+| **[Stage 2](future-vision/research/stage2-building-wireless-power-en.md)** ⭐ | Building Wireless | 2030-2035 | RF + Infrared | Whole building |
+| **[Stage 3](future-vision/research/stage3-region-wireless-power-en.md)** ⭐ | Region Wireless | 2035-2045 | Microwave + mmWave | City/Region |
+| **[Stage 4](future-vision/research/stage4-global-wireless-power-en.md)** ⭐ | Global Wireless | 2045-2060 | Space solar power | Global |
+| **[Stage 5](future-vision/research/stage5-new-energy-era-en.md)** ⭐ | New Energy Era | 2060+ | Zero-point/Dark energy | Universe |
 
-**Each stage includes**: Technical principles, system architecture, key metrics, commercialization path, challenges & solutions,典型案例
+**Each stage includes**: Technical principles, system architecture, key metrics, commercialization path, challenges & solutions, typical cases
 
 ---
 
@@ -77,7 +77,7 @@ idea/
 
 | Paper | Theme | Size | Description |
 |-------|-------|------|-------------|
-| **[Energy Civilization: From AEDD to Interstellar Society](future-vision/research/the-energy-civilization-paper.md)** ⭐ | Three pillars integration | ~22KB | Complete paper with five-stage evolution |
+| **[Energy Civilization: From AEDD to Interstellar Society](future-vision/research/the-energy-civilization-paper-en.md)** ⭐ | Three pillars integration | ~22KB | Complete paper with five-stage evolution |
 
 ---
 
@@ -85,9 +85,9 @@ idea/
 
 | Paper | Core Content | Relationship to Five Stages |
 |-------|-------------|----------------------------|
-| [AEDD Technology](future-vision/research/ambient-energy-direct-drive-paper.md) | Ambient energy direct drive | Foundation for Stages 1-2 |
-| [AEDD & AI Autonomy](future-vision/research/aedd-ai-singularity-paper.md) | AI autonomous evolution | Throughout all stages |
-| [Global Energy Web](future-vision/research/global-energy-web-civilization-paper.md) | Five-layer infrastructure | Core for Stages 3-4 |
+| [AEDD Technology](future-vision/research/ambient-energy-direct-drive-paper-en.md) | Ambient energy direct drive | Foundation for Stages 1-2 |
+| [AEDD & AI Autonomy](future-vision/research/aedd-ai-singularity-paper-en.md) | AI autonomous evolution | Throughout all stages |
+| [Global Energy Web](future-vision/research/global-energy-web-civilization-paper-en.md) | Five-layer infrastructure | Core for Stages 3-4 |
 
 ---
 

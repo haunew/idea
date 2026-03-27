@@ -296,7 +296,7 @@ Global deployment (50 satellites):
 ```
 From scarcity to abundance:
 - Energy costs approach zero
-- Global electricity普及
+- Global electricity access
 - Elimination of energy poverty
 
 Environmental improvement:

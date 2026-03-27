@@ -81,7 +81,7 @@ Seamless whole-building coverage
 **Applicable Scenarios**:
 - Low-power devices: sensors, remote controls, smart switches
 - Background powering: maintaining device standby
-- Wide coverage: whole-building无死角
+- Wide coverage: whole-building coverage
 
 ### 2.3 IR Energy Transmission
 
