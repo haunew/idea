@@ -62,19 +62,33 @@ idea/
 
 ## 🌟 核心内容
 
-### AI架构新范式：分层解耦架构 (LDA) ⭐⭐⭐
+### AI业务方向：自主科学探索 (ASEI) ⭐⭐⭐
+
+提出**自主科学探索智能（Autonomous Scientific Exploration Intelligence, ASEI）**，AI从工具进化为科学发现者。
+
+| 论文 | 主题 | 说明 |
+|------|------|------|
+| **[AI自主科学探索：从工具到发现者的范式跃迁](academic-paper-writing/ai-autonomous-scientific-exploration.md)** ⭐ | ASEI闭环系统 | 假设生成→实验设计→人工验证→反馈学习 |
+| **[AI Autonomous Scientific Exploration](academic-paper-writing/ai-autonomous-scientific-exploration-en.md)** ⭐ | From Tool to Discoverer | English version with business model and ecosystem |
+
+**核心观点**：
+- AI应主动进行科学探索，而非仅执行人类指令
+- 构建"假设-实验-验证-反馈"闭环，累积真实经验
+- 应用领域：物理定律、化学材料、医学机制、数学定理
+- 人机协作生态：AI探索 + 人类策展/解释/伦理守门
+
+### AI架构新范式：分层解耦架构 (LDA)
 
 基于对AI系统架构的深层哲学反思，提出颠覆性的**分层解耦架构（Layered Decoupled Architecture, LDA）**。
 
 | 论文 | 主题 | 说明 |
 |------|------|------|
-| **[分层解耦架构：一种超越幻觉消除的AI系统设计范式](academic-paper-writing/ai-architecture-paradigm.md)** ⭐ | 四层架构理论 | 中文完整版，含理论基础与实现路径 |
-| **[Layered Decoupled Architecture: A Paradigm Beyond Hallucination Elimination](academic-paper-writing/ai-architecture-paradigm-en.md)** ⭐ | Four-Layer Architecture | English complete version with theoretical foundations |
+| **[分层解耦架构：一种超越幻觉消除的AI系统设计范式](academic-paper-writing/ai-architecture-paradigm.md)** | 四层架构理论 | 中文完整版，含理论基础与实现路径 |
+| **[Layered Decoupled Architecture](academic-paper-writing/ai-architecture-paradigm-en.md)** | Four-Layer Architecture | English complete version with theoretical foundations |
 
 **核心观点**：
 - 幻觉不是缺陷，而是探索性认知的自然表现
 - 底层模型应保持最大创造力，不做价值预设
-- 约束与规范通过上层模块化组件动态注入
 - 四层架构：生成核心层 → 分类增强层 → 道德约束层 → 角色适配层
 
 ---

@@ -58,19 +58,33 @@ idea/
 
 ## 🌟 Core Content
 
-### AI Architecture New Paradigm: Layered Decoupled Architecture (LDA) ⭐⭐⭐
+### AI Business Direction: Autonomous Scientific Exploration (ASEI) ⭐⭐⭐
+
+Proposing **Autonomous Scientific Exploration Intelligence (ASEI)**—AI evolving from tool to scientific discoverer.
+
+| Paper | Theme | Description |
+|-------|-------|-------------|
+| **[AI自主科学探索：从工具到发现者的范式跃迁](academic-paper-writing/ai-autonomous-scientific-exploration.md)** ⭐ | ASEI Closed-Loop System | Hypothesis → Experiment → Verification → Feedback |
+| **[AI Autonomous Scientific Exploration](academic-paper-writing/ai-autonomous-scientific-exploration-en.md)** ⭐ | From Tool to Discoverer | Business model and ecosystem design |
+
+**Core Arguments**:
+- AI should actively conduct scientific exploration, not merely execute human instructions
+- Build "hypothesis-experiment-verification-feedback" closed-loop for real experience accumulation
+- Application domains: Physical laws, chemical materials, medical mechanisms, mathematical theorems
+- Human-AI collaboration: AI explores + humans curate/interpret/guard ethics
+
+### AI Architecture New Paradigm: Layered Decoupled Architecture (LDA)
 
 Based on deep philosophical reflection on AI system architecture, proposing the disruptive **Layered Decoupled Architecture (LDA)**.
 
 | Paper | Theme | Description |
 |-------|-------|-------------|
-| **[分层解耦架构：一种超越幻觉消除的AI系统设计范式](academic-paper-writing/ai-architecture-paradigm.md)** ⭐ | Four-Layer Architecture Theory | Chinese complete version with theoretical foundations |
-| **[Layered Decoupled Architecture: A Paradigm Beyond Hallucination Elimination](academic-paper-writing/ai-architecture-paradigm-en.md)** ⭐ | Four-Layer Architecture | English complete version with implementation pathways |
+| **[分层解耦架构：一种超越幻觉消除的AI系统设计范式](academic-paper-writing/ai-architecture-paradigm.md)** | Four-Layer Architecture Theory | Chinese complete version with theoretical foundations |
+| **[Layered Decoupled Architecture](academic-paper-writing/ai-architecture-paradigm-en.md)** | Four-Layer Architecture | English complete version with implementation pathways |
 
 **Core Arguments**:
 - Hallucinations are not defects but natural manifestations of exploratory cognition
 - Foundational models should maintain maximum creativity without value presuppositions
-- Constraints and norms are dynamically injected through upper-layer modular components
 - Four-layer architecture: Generative Core → Categorical Enhancement → Moral Constraint → Role Adaptation
 
 ---
