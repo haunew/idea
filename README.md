@@ -60,7 +60,26 @@ idea/
 
 ---
 
-## 🌟 核心内容：能源文明论文系列
+## 🌟 核心内容
+
+### AI架构新范式：分层解耦架构 (LDA) ⭐⭐⭐
+
+基于对AI系统架构的深层哲学反思，提出颠覆性的**分层解耦架构（Layered Decoupled Architecture, LDA）**。
+
+| 论文 | 主题 | 说明 |
+|------|------|------|
+| **[分层解耦架构：一种超越幻觉消除的AI系统设计范式](academic-paper-writing/ai-architecture-paradigm.md)** ⭐ | 四层架构理论 | 中文完整版，含理论基础与实现路径 |
+| **[Layered Decoupled Architecture: A Paradigm Beyond Hallucination Elimination](academic-paper-writing/ai-architecture-paradigm-en.md)** ⭐ | Four-Layer Architecture | English complete version with theoretical foundations |
+
+**核心观点**：
+- 幻觉不是缺陷，而是探索性认知的自然表现
+- 底层模型应保持最大创造力，不做价值预设
+- 约束与规范通过上层模块化组件动态注入
+- 四层架构：生成核心层 → 分类增强层 → 道德约束层 → 角色适配层
+
+---
+
+## 🌟 能源文明论文系列
 
 ### 五阶段演进研究 ⭐⭐⭐
 
@@ -377,13 +396,14 @@ python academic-paper-writing/scripts/bib_formatter.py refs.txt gb7714
 
 | 类别 | 数量 |
 |------|------|
-| 研究论文 | 13篇 |
+| AI架构论文 | 2篇（中英文） |
+| 能源文明论文 | 13篇 |
 | 五阶段文档 | 5篇（约60,000字） |
 | 想法记录 | 7篇 |
 | Skill文档 | 4篇 |
-| **总计** | **约100,000+字** |
+| **总计** | **约120,000+字** |
 
 ---
 
 *创建时间：2026-03-26*
-*最后更新：2026-03-27*
+*最后更新：2026-03-31*

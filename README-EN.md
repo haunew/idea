@@ -56,7 +56,26 @@ idea/
 
 ---
 
-## 🌟 Core Content: Energy Civilization Paper Series
+## 🌟 Core Content
+
+### AI Architecture New Paradigm: Layered Decoupled Architecture (LDA) ⭐⭐⭐
+
+Based on deep philosophical reflection on AI system architecture, proposing the disruptive **Layered Decoupled Architecture (LDA)**.
+
+| Paper | Theme | Description |
+|-------|-------|-------------|
+| **[分层解耦架构：一种超越幻觉消除的AI系统设计范式](academic-paper-writing/ai-architecture-paradigm.md)** ⭐ | Four-Layer Architecture Theory | Chinese complete version with theoretical foundations |
+| **[Layered Decoupled Architecture: A Paradigm Beyond Hallucination Elimination](academic-paper-writing/ai-architecture-paradigm-en.md)** ⭐ | Four-Layer Architecture | English complete version with implementation pathways |
+
+**Core Arguments**:
+- Hallucinations are not defects but natural manifestations of exploratory cognition
+- Foundational models should maintain maximum creativity without value presuppositions
+- Constraints and norms are dynamically injected through upper-layer modular components
+- Four-layer architecture: Generative Core → Categorical Enhancement → Moral Constraint → Role Adaptation
+
+---
+
+## 🌟 Energy Civilization Paper Series
 
 ### Five-Stage Evolution Research ⭐⭐⭐
 
@@ -373,13 +392,14 @@ Idea → Record in ideas/ → Discuss & refine → Develop in research/ → Pape
 
 | Category | Count |
 |----------|-------|
-| Research papers | 13 |
+| AI Architecture papers | 2 (Chinese & English) |
+| Energy Civilization papers | 13 |
 | Five-stage documents | 5 (~60,000 words) |
 | Idea records | 7 |
 | Skill documents | 4 |
-| **Total** | **~100,000+ words** |
+| **Total** | **~120,000+ words** |
 
 ---
 
 *Created: 2026-03-26*
-*Last updated: 2026-03-27*
+*Last updated: 2026-03-31*
